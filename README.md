@@ -1,4 +1,4 @@
-## Análise Ecploratória de Dados - Netflix
+## Análise Exploratória de Dados - Netflix
 
 Com base no módulo que acabamos de ver, junte suas anotações e conhecimento adquirido para analisar a seguinte base de dados:
 
